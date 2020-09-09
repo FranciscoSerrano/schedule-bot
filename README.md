@@ -15,6 +15,7 @@ I wrote this program using python so there are a just a couple of steps you need
 2. After you install python simply run these commands in terminal:
 
     pip install pandas
+    
     pip install plotly
 
 These are libraries I used to make the program easier to write.
