@@ -4,7 +4,7 @@ Hello, my name is Francisco. I'm a genius at Apple R291. I noticed an opportinut
 
 It's far from perfect so any feedback is much appreciateed. Definitly consider this to be in Beta right now.
 
-You can send me ideas or feedback on slack or email and can find me using fserrano@apple.com
+You can send me ideas or feedback on slack or email and can find me using [redacted]
 
 ## Installation Instructions
 
